@@ -18,9 +18,5 @@ I am an international Sophomore student from Hungary currently studying in the U
 - **Other Skills:** Linux, API Integration, Databases
 - **Tools, Frameworks & Libraries:** Flask, Bootstrap, Bulma, Git, Docker, Postman
 
-### 📊 GitHub Stats
-![Zoltan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrazzoli123&show_icons=true&theme=radical)
-
-
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/zoltan-mraz-7747613a1/) | [Portfolio](YOUR_PORTFOLIO_URL_OR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/zoltan-mraz-7747613a1/)

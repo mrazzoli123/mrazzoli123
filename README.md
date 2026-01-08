@@ -14,9 +14,9 @@ I am an international Sophomore student from Hungary currently studying in the U
 - 🎣 **Hobby:** When I'm not coding, I’m likely fishing or outdoors, recharging for the next big project.
 
 ### 🛠️ Technical Toolkit
-- **Languages:** Python, Java, HTML, CSS, JavaScript, SQL
+- **Languages:** Python, Java, C#, HTML, CSS, JavaScript, SQL
 - **Other Skills:** Linux, API Integration, Databases
-- **Tools, Frameworks & Libraries:** Flask, Bootstrap, Bulma, Git, Docker, Postman
+- **Tools, Frameworks & Libraries:** Flask, Bootstrap, Bulma, Git, Docker, Postman, JUnit
 
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/zoltan-mraz-7747613a1/)
